@@ -4,6 +4,10 @@ body {
     background-color: #FFFFFF;
 }
 
+.navbar {
+    border-bottom: 1px solid #E7E9FC
+}
+
 .logo_WebStudio {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -113,6 +117,9 @@ body {
     color: #FFFFFF;
 }
 
+.About_Business {
+    background-color: #F4F4FD;
+}
 .Button {
     background-color: #4D5AE5;
     font-family: "Roboto" , sans-serif;
@@ -285,6 +292,10 @@ body {
 }
 
 .Our_Portfolio {
+    background-color: #FFFFFF;
+}
+
+.Our_Portfolio_Title {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -387,7 +398,7 @@ body {
 
 
 .footer {
-    color:  #2e2f42;
+    background-color: #2e2f42;
 }
 
 .logo_WebStudio_footer {
@@ -402,7 +413,7 @@ body {
 
 
 .Studio_footer {
-    color: #2e2f42;
+    color: #F4F4FD;
 }
 
 .footer_paragraf {
