@@ -1,0 +1,92 @@
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+
+
+.nav_container_under button{
+    width: 169px;
+    height: 56px;
+    background: #4D5AE5;    
+    color: #FFFFFF;
+    border: #4D5AE5;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.nav_container_under h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 56px;
+    line-height: 2;
+    background: #2E2F42;
+    color: #FFFFFF  ;
+    font-weight: 700;
+
+}
+
+.About_Business h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 500;
+    color: #2E2F42;
+    
+
+}
+.About_Business p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #434455;
+    ;
+}
+
+.Our_Team h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    line-height: 2;
+    font-weight: 700;
+    color: #2E2F42;
+}
+
+.Our_Team ul li h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 500;
+    color: #2E2F42;
+}
+
+.Our_Team ul li p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px; 
+    line-height: 1.5;
+    font-weight: 400;
+    color: #434455;
+}
+
+.Our_Portfolio h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    line-height: 2;
+    font-weight: 700;
+    color: #2E2F42;
+}
+
+.Our_Portfolio ul li h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 500;
+    color: #2E2F42;
+}
+
+.Our_Portfolio ul li p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px; 
+    line-height: 1.5;
+    font-weight: 400;
+    color: #434455;
+}
