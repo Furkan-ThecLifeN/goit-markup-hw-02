@@ -93,7 +93,7 @@ body {
 }
 
 
-.strategy_section {
+.about_section_h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -101,59 +101,13 @@ body {
     color: #2e2f42;
 }
 
-.strategy_paragraf {
+.about_section_paragraf {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-
-.punctuality_section {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.punctuality_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.diligence_section {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.diligence_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-
-.technologies_section {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.technologies_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
 
 
 .our_team {
