@@ -11,7 +11,7 @@ body {
 .logo_WebStudio {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
-    font-size: 18;
+    font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -25,7 +25,7 @@ body {
 
 .Nav_Studio {
     font-weight: 500;
-    font-size: 16;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -43,7 +43,7 @@ body {
 
 .Portfolio {
     font-weight: 500;
-    font-size: 16;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -59,7 +59,7 @@ body {
 
 .Contacts {
     font-weight: 500;
-    font-size: 16;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -124,7 +124,7 @@ body {
     background-color: #4D5AE5;
     font-family: "Roboto" , sans-serif;
     font-weight: 500;
-    font-size: 16;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
@@ -404,7 +404,7 @@ body {
 .logo_WebStudio_footer {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
-    font-size: 18;
+    font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
