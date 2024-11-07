@@ -8,7 +8,7 @@ body {
     border-bottom: 1px solid #E7E9FC
 }
 
-.logo_WebStudio {
+.logo_class_bar {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -19,55 +19,21 @@ body {
 }  
 
 
-.Studio_Title{
+.studio_title_bar{
     color: #2e2f42;
 }
 
-.nav-studio {
+.nav_container_section {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.nav-studio:hover {
+.nav_container_section:hover {
     color: #404bbf;
 }
-.nav-studio:focus{
-    color: #404bbf;
-}
-
-
-
- 
-
-.Portfolio_section {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.Portfolio_section:hover {
-    color: #404bbf;
-}
-.Portfolio_section:focus{
-    color: #404bbf;
-}
-
-
-
-.Contacts_section {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.Contacts_section:hover {
-    color: #404bbf;
-}
-.Contacts_section:focus{
+.nav_container_section:focus{
     color: #404bbf;
 }
 
@@ -76,40 +42,27 @@ body {
     font-style: normal;
 }
 
-.email_bar {
+.address_bar_section {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455 ;
 }
 
-.email_bar:hover {
+.address_bar_section:hover {
     color: #404bbf;
 }
 
-.email_bar:focus {
+.address_bar_section:focus {
     color: #404bbf;
 }
 
 
-.phone_bar {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455 ;
-}
-
-.phone_bar:hover {
-    color: #404bbf;
-}
-
-.phone_bar:focus {
-    color: #404bbf;
-}
 
 .nav_container_under {
     background-color: #2e2f42;
 }
 
-.h1_section {
+.title_section {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -120,7 +73,7 @@ body {
 .About_Business {
     background-color: #F4F4FD;
 }
-.Button_class {
+.btn-action {
     background-color: #4D5AE5;
     font-family: "Roboto" , sans-serif;
     font-weight: 500;
@@ -131,11 +84,11 @@ body {
     cursor: pointer;
 }
 
-.Button_class:hover {
+.btn-action:hover {
     background-color:  #404BBF;
 }
 
-.Button_class:focus {
+.btn-action:focus {
     background-color:  #404BBF;
 }
 
