@@ -93,7 +93,7 @@ body {
 }
 
 
-.about_section_h3 {
+.about_h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -114,7 +114,7 @@ body {
     background-color: #f4f4fd;
 }
 
-.our_team-h2 {
+.ourteam_h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -127,7 +127,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.mark_guerrero_h3 {
+.ourteam_h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -135,72 +135,13 @@ body {
     color: #2e2f42;
 }
 
-.mark_guerrero_paragraf {
+.ourteam_prg {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-
-.tom_ford {
-    background-color: #FFFFFF;
-}
-
-.tom_ford_h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.tom_ford_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-
-.camila_garcia {
-    background-color: #FFFFFF;
-}
-
-.camila_garcia_h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.camila_garcia_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-
-.daniel_wilson {
-    background-color: #FFFFFF;
-}
-
-.daniel_wilson_h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.daniel_wilson_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
 
 .Our_Portfolio {
     background-color: #FFFFFF;
@@ -215,7 +156,7 @@ body {
     color: #2e2f42;
 }
 
-.class_portfolio_h3 {
+.portfolio_h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
