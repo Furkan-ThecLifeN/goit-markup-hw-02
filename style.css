@@ -1,10 +1,10 @@
 body {
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
 
-.navbar {
+.navbar_section {
     border-bottom: 1px solid #E7E9FC
 }
 
@@ -19,21 +19,21 @@ body {
 }  
 
 
-.Studio{
+.Studio_Title{
     color: #2e2f42;
 }
 
-.Nav_Studio {
+.nav-studio {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.Nav_Studio:hover {
+.nav-studio:hover {
     color: #404bbf;
 }
-.Nav_Studio:focus{
+.nav-studio:focus{
     color: #404bbf;
 }
 
@@ -41,67 +41,67 @@ body {
 
  
 
-.Portfolio {
+.Portfolio_section {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.Portfolio:hover {
+.Portfolio_section:hover {
     color: #404bbf;
 }
-.Portfolio:focus{
+.Portfolio_section:focus{
     color: #404bbf;
 }
 
 
 
-.Contacts {
+.Contacts_section {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.Contacts:hover {
+.Contacts_section:hover {
     color: #404bbf;
 }
-.Contacts:focus{
+.Contacts_section:focus{
     color: #404bbf;
 }
 
 
-.address {
+.address_bar {
     font-style: normal;
 }
 
-.email {
+.email_bar {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455 ;
 }
 
-.email:hover {
+.email_bar:hover {
     color: #404bbf;
 }
 
-.email:focus {
+.email_bar:focus {
     color: #404bbf;
 }
 
 
-.phone {
+.phone_bar {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455 ;
 }
 
-.phone:hover {
+.phone_bar:hover {
     color: #404bbf;
 }
 
-.phone:focus {
+.phone_bar:focus {
     color: #404bbf;
 }
 
@@ -109,7 +109,7 @@ body {
     background-color: #2e2f42;
 }
 
-.h1 {
+.h1_section {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -120,7 +120,7 @@ body {
 .About_Business {
     background-color: #F4F4FD;
 }
-.Button {
+.Button_class {
     background-color: #4D5AE5;
     font-family: "Roboto" , sans-serif;
     font-weight: 500;
@@ -131,16 +131,16 @@ body {
     cursor: pointer;
 }
 
-.Button:hover {
+.Button_class:hover {
     background-color:  #404BBF;
 }
 
-.Button:focus {
+.Button_class:focus {
     background-color:  #404BBF;
 }
 
 
-.strategy {
+.strategy_section {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -156,7 +156,7 @@ body {
 }
 
 
-.punctuality {
+.punctuality_section {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -171,7 +171,7 @@ body {
     color: #434455;
 }
 
-.diligence {
+.diligence_section {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -187,7 +187,7 @@ body {
 }
 
 
-.technologies {
+.technologies_section {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -203,31 +203,32 @@ body {
 }
 
 
-.Our_Team {
+.our_team {
     background-color: #f4f4fd;
 }
 
-.Our_Team_h2 {
+.our_team-h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
-    letter-spacing: 0.002em;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     color:  #2e2f42;
 }
 
-.Mark_Guerrero {
+.mark_guerrero {
     background-color: #FFFFFF;
 }
 
-.Mark_Guerrero_h3 {
+.mark_guerrero_h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 0.002em;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.Mark_Guerrero_paragraf {
+.mark_guerrero_paragraf {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -235,18 +236,19 @@ body {
 }
 
 
-.Tom_Ford {
+.tom_ford {
     background-color: #FFFFFF;
 }
 
-.Tom_Ford_h3 {
+.tom_ford_h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 0.002em;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.Tom_Ford_paragraf {
+.tom_ford_paragraf {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -254,18 +256,19 @@ body {
 }
 
 
-.Camila_Garcia {
+.camila_garcia {
     background-color: #FFFFFF;
 }
 
-.Camila_Garcia_h3 {
+.camila_garcia_h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 0.002em;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.Camila_Garcia_paragraf {
+.camila_garcia_paragraf {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -273,18 +276,19 @@ body {
 }
 
 
-.Daniel_Wilson {
+.daniel_wilson {
     background-color: #FFFFFF;
 }
 
-.Daniel_Wilson_h3 {
+.daniel_wilson_h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 0.002em;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.Daniel_Wilson_paragraf {
+.daniel_wilson_paragraf {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -295,7 +299,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.Our_Portfolio_Title {
+.our_portfolio_title {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -304,7 +308,7 @@ body {
     color: #2e2f42;
 }
 
-.Banking_app_h3 {
+.class_portfolio_h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -312,22 +316,7 @@ body {
     color: #2e2f42;
 }
 
-.App_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.Cashless_Payment_h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.Marketing_paragraf {
+.class_portfolio_paragraf {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -335,69 +324,7 @@ body {
 }
 
 
-.Meditation_App_h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.Meditation_App_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.Taxi_Service_h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.Taxi_Service_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.Screen_Illustrations_h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.Design_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-
-.Online_Courses_h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.Online_Courses_paragraf {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-
-.footer {
+.footer_section {
     background-color: #2e2f42;
 }
 
@@ -412,7 +339,7 @@ body {
 }  
 
 
-.Studio_footer {
+.studio_footer {
     color: #F4F4FD;
 }
 
